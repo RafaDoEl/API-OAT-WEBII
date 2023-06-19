@@ -1,0 +1,3 @@
+USERNAME: rafaelbeiral
+PASSAWORD: 28L3ZfsOHItBAUPj
+mongodb+srv://rafaelbeiral:<password>@apirider.eylbbqm.mongodb.net/?retryWrites=true&w=majority
